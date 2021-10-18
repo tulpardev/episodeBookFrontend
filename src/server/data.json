@@ -1,0 +1,49 @@
+{
+    "seriesName":"piki",
+    "season":"1",
+    "episode":4,
+    "wordCount":32,
+    
+    "item":{
+       {
+            "source":"eng"- Code:00
+            "destination":"tr" - Code:01
+            "words":[
+{
+                "sourceWord":"pick",
+                "destinationWord":"seçmek",
+                "img":"testtttt",
+                "id":4
+},
+{
+                "sourceWord":"pick1",
+                "destinationWord":"seçmek1",
+                "img":"testtttt",
+                "id":4
+},
+{
+                "sourceWord":"pick2",
+                "destinationWord":"seçmek2",
+                "img":"testtttt",
+                "id":4
+},
+
+
+            ],
+            "likeCount":44,
+
+
+        },
+       {
+            "source":"eng"- Code:00
+            "destination":"Fr" - Code:02
+            "words":[
+                "sourceWord":"pick",
+                "destinationWord":"Alugvua",
+                "img":"testtttt",
+	    "id":1
+            ],
+            "likeCount":23,
+        },
+    }
+}
